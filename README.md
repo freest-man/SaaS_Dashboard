@@ -1,6 +1,6 @@
 # SaaS_Dashboard
 
-Dashboards.agency is a data analytics agency that builds business dashboards for B2B SaaS companies.
+This is a SAAS Dashboard Demo made to monitor the key metrics and performance indicators to assess the health of SAAS business or project. 
 
 Developed this Demo Dashboard which serves as a template that is built for B2B SaaS companies. 
 
