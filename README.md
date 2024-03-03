@@ -8,7 +8,7 @@ The KPIs and charts used in this Demo PBI file are similar to actual client requ
 
 Having developed dashboards for 5+ SaaS clients through Dashboard.Agency this Dashboard summarises the kind of deliverables provided for the clients.
 
-Overview - Provides an overview of the key metrics and KPIs
+**Overview** - Provides an overview of the key metrics and KPIs
 
 ![Dashboard_Agency_Overview](https://github.com/freest-man/SaaS_Dashboard/assets/116303271/b0c44924-558c-4610-a769-25a00555f4db)
 
