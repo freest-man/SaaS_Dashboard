@@ -10,7 +10,7 @@ Having developed dashboards for 5+ SaaS clients through Dashboard.Agency this Da
 
 **Overview** - Provides an overview of the key metrics and KPIs
 
-![Dashboard_Agency_Overview](![image](https://github.com/freest-man/SaaS_Dashboard/assets/116303271/aedf1677-18ea-4214-abde-c737354f9023))
+![Dashboard_Agency_Overview](https://github.com/freest-man/SaaS_Dashboard/assets/116303271/aedf1677-18ea-4214-abde-c737354f9023)
 
 **Breakdown**- A breakdown of key metrics and KPIs
 
