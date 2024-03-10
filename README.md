@@ -1,6 +1,6 @@
 # SaaS_Dashboard
 
-This is a SaaS Dashboard made to monitor the key metrics and performance indicators to assess the health of the SaaS business or project. 
+This is a SaaS Dashboard made to monitor the key metrics and performance indicators to assess the health of a SaaS business and its marketing activities. 
 
 The Dashboard has 3 Sections: Overview, Breakdown and Marketing. 
 
