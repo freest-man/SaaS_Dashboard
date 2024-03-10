@@ -14,8 +14,10 @@ Having developed dashboards for 5+ SaaS clients through Dashboard.Agency this Da
 
 **Breakdown**- A breakdown of key metrics and KPIs
 
-![Dashboard_Agency_Breakdown](https://github.com/freest-man/SaaS_Dashboard/assets/116303271/6f6935fc-37c7-4f90-a0e0-78570b1d2a31)
+![Dashboard_Agency_Breakdown](https://github.com/freest-man/SaaS_Dashboard/assets/116303271/de00263b-a71e-4bb3-8b67-22c0e742217b)
+
 
 **Marketing** - Monitor marketing activities and evaluate the performance vs Targets
 
-![Dashboard_Agency_Marketing](https://github.com/freest-man/SaaS_Dashboard/assets/116303271/00ac59be-79de-4303-8e81-804984e03839)
+![Dashboard_Agency_Marketing]![image](https://github.com/freest-man/SaaS_Dashboard/assets/116303271/1cdc9565-fae0-4bc0-92e5-646df2354e79)
+
