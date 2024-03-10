@@ -1,12 +1,14 @@
 # SaaS_Dashboard
 
-This is a SaaS Dashboard Demo made to monitor the key metrics and performance indicators to assess the health of the SaaS business or project. 
+This is a SaaS Dashboard made to monitor the key metrics and performance indicators to assess the health of the SaaS business or project. 
 
-This Demo Dashboard serves as a template that was built for B2B SaaS companies. 
+The Dashboard has 3 Sections: Overview, Breakdown and Marketing. 
 
-The KPIs and charts used in this Demo PBI file are similar to actual client requirements.
 
-Having developed dashboards for 5+ SaaS clients through Dashboard.Agency this Dashboard summarises the kind of deliverables provided for the clients.
+
+
+
+
 
 **Overview** - Provides an overview of the key metrics and KPIs
 
